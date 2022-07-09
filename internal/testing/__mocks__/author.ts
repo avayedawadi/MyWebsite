@@ -2,7 +2,7 @@ import contacts from "./contacts";
 
 export default {
   photo: "/photo.jpg",
-  bio: "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
-  name: "John Doe",
+  bio: "Computer science major at the Georgia Institute of Technology. Enjoy math, programming, and all sorts of tinkering.",
+  name: "Avaye Dawadi",
   contacts,
 };
