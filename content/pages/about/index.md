@@ -4,10 +4,26 @@ template: "page"
 socialImage: "/notebook.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I thought it would be quite quirky of me to do this in Q/A format so ... yeah
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/notebook.jpg)
+### I just want your resume. WHERE IS IT?
 
-_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
+Oh my goodness, I'm so flattered. Here it is: <a target="_blank" href="./avaye_dawadi_resume.pdf">Resume</a>
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+### Soooooo what are you into?
+
+I'm so happy you asked! Obviously, I love programming and math. Recently, I've gotten obsessed with ping pong.
+I just learned to hit with topspin so that's at least a step in the right direction! I also love to play video games
+in my spare time.
+
+
+### Are you good at ping pong?
+
+Yes! I'll beat you any time, any place. Given, of course, that you are a beginnger to intermediate player with limited knowledge of spin.
+
+
+### Are you open to new opportunities?
+I'm always open to new opportunities! Shoot me an email at avaye.dawadi@gmail.com
+
+### Are you open to just chatting?
+Of course! If you ever need anything from me, just email me at the address above. 
