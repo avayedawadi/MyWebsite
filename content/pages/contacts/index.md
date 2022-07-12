@@ -8,9 +8,7 @@ details > *:not(summary){
   margin-left: 2em;
 }
 </style>
-
-All my notes (for hopefully the length of my academic career) will be posted here. All the notes are done in LaTex. A dropdown can be see for each semester of school
-and then also for each class within each semester. I have an example at the top to make everything clearer (hopefully).
+All my notes (for hopefully the length of my academic career) will be posted here. All the notes are done in LaTex. A dropdown can be see for each semester of school and then also for each class within each semester. I have an example at the top to make everything clearer (hopefully). The notes will be written in Emacs org mode and then converted to LaTex using Pandoc.
 
 ## Example
 
