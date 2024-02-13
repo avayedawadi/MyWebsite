@@ -5,16 +5,16 @@ exports[`Menu renders correctly 1`] = `
   <ul>
     <li>
       <a
-        href="/"
+        href="/pages/about"
       >
-        Articles
+        About Me
       </a>
     </li>
     <li>
       <a
-        href="/pages/about"
+        href="/"
       >
-        About Me
+        Projects
       </a>
     </li>
     <li>

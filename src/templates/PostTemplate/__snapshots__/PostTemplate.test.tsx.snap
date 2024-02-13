@@ -6,7 +6,7 @@ exports[`PostTemplate renders correctly 1`] = `
     <a
       href="/"
     >
-      All Articles
+      All Projects
     </a>
     <div>
       <div>
@@ -24,25 +24,15 @@ exports[`PostTemplate renders correctly 1`] = `
     </div>
     <div>
       <div>
-        <p>
-          Published
-           
-          Sep 1, 2016
-        </p>
+        <p />
       </div>
       <div>
         <p>
-          Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.
-          <a
-            href="https://www.twitter.com/#"
-            rel="noopener noreferrer"
-            target="_blank"
-          >
-            <strong>
-              Avaye Dawadi
-            </strong>
-             on Twitter
-          </a>
+          Computer science major at the Georgia Institute of Technology. Enjoy math, programming, and all sorts of tinkering.
+          <br />
+          <strong>
+            Avaye Dawadi
+          </strong>
         </p>
       </div>
     </div>

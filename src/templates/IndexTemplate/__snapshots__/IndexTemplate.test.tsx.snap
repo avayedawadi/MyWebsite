@@ -16,23 +16,23 @@ exports[`IndexTemplate renders correctly 1`] = `
           </a>
         </h1>
         <p>
-          Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.
+          Computer science major at the Georgia Institute of Technology. Enjoy math, programming, and all sorts of tinkering.
         </p>
       </div>
       <nav>
         <ul>
           <li>
             <a
-              href="/"
+              href="/pages/about"
             >
-              Articles
+              About Me
             </a>
           </li>
           <li>
             <a
-              href="/pages/about"
+              href="/"
             >
-              About Me
+              Projects
             </a>
           </li>
           <li>
@@ -150,9 +150,9 @@ exports[`IndexTemplate renders correctly 1`] = `
           <div>
             <div>
               <time
-                dateTime="September 1, 2016"
+                dateTime="August 31, 2016"
               >
-                September 2016
+                August 2016
               </time>
               <span />
               <span>
@@ -182,9 +182,9 @@ exports[`IndexTemplate renders correctly 1`] = `
           <div>
             <div>
               <time
-                dateTime="September 1, 2016"
+                dateTime="August 31, 2016"
               >
-                September 2016
+                August 2016
               </time>
               <span />
               <span>
@@ -228,7 +228,7 @@ exports[`IndexTemplate renders correctly 1`] = `
               href="/typography/page/3"
               rel="next"
             >
-              → NEXT
+              NEXT →
             </a>
           </div>
         </div>
