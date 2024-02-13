@@ -9,7 +9,7 @@
   "pathPrefix": "/",
   "menu": [
     {
-      "label": "Articles",
+      "label": "Projects",
       "path": "/"
     },
     {
@@ -17,7 +17,7 @@
       "path": "/pages/about"
     },
     {
-      "label": "Notes",
+      "label": "Resume",
       "path": "/pages/contacts"
     }
   ],
@@ -27,7 +27,7 @@
     "bio": "Computer science major at the Georgia Institute of Technology. Enjoy math, programming, and all sorts of tinkering.",
     "contacts": {
       "rss": "",
-      "email": "avaye.dawadi@gmail.com",
+      "email": "adawadi6@gatech.edu",
       "github": "avayedawadi",
       "facebook": "",
       "telegram": "",

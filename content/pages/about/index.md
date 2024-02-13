@@ -1,29 +1,31 @@
 ---
-title: "About me"
+title: "About Me"
 template: "page"
 socialImage: "/notebook.jpg"
 ---
 
-I thought it would be quite quirky of me to do this in Q/A format so ... yeah
+### What are you looking for?
 
-### I just want your resume. WHERE IS IT?
+Thanks for asking! I'm currently looking for a Fall 2024 internship
+in software engineering. But I'm also interested in working on any talented teams that I can
+and am willing to talk about any opportunities.
 
-Oh my goodness, I'm so flattered. Here it is: <a target="_blank" href="./avaye_dawadi_resume.pdf">Resume</a>
+### What are your strongest skills?
+I've been doing CS all my life and feel that I am fundementally strong enough to learn 
+anything that could be thrown at me. But to give specific skills, definitely full-stack
+web development, which I do a lot of in my work at the Georgia Tech Research Institute and
+at Georgia Tech Bits of Good (a Hack4Impact Chapter helping to make websites for non-profits). 
+At the Georgia Tech Research Institute (GTRI), I also do a lot of work in building robotics simulators
+in Python. I also do a good bit of general scripting in Python at GTRI.
+Look at my projects section for more info there!\
 
-### Soooooo what are you into?
+### What are your other CS interests?
+I have a decent amount of experience with lower-level computing. I do research
+on campus at the Embedded Pervasive Lab. There, I've gotten experience with Linux
+and closed-loop testing directly with CPU isolation. It's been a lot of fun to do that
+work in tandem  with taking my favorite class so far (CS 3210 - Operating Systems). Doing
+that low-level stuff really gives me a really fine-grained experience with CS, which 
+has been a blast!
 
-I'm so happy you asked! Obviously, I love programming and math. Recently, I've gotten obsessed with ping pong.
-I just learned to hit with topspin so that's at least a step in the right direction! I also love to play video games
-in my spare time.
-
-
-### Are you good at ping pong?
-
-Yes! I'll beat you any time, any place. Given, of course, that you are a beginnger to intermediate player with limited knowledge of spin.
-
-
-### Are you open to new opportunities?
-I'm always open to new opportunities! Shoot me an email at avaye.dawadi@gmail.com
-
-### Are you open to just chatting?
-Of course! If you ever need anything from me, just email me at the address above. 
+### How can I reach you?
+If you need anything, please reach out at **adawadi6 [at] gatech [dot] edu**.
