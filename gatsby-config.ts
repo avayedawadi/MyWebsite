@@ -17,6 +17,26 @@ export default {
   },
   plugins: [
     {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: [
+          "G-QLCDZX4JNW", // Google Analytics (GA4)
+        ],
+        gtagConfig: {
+          optimize_id: "OPT_CONTAINER_ID", // Optional, remove if not used
+          anonymize_ip: true, // Optional, but recommended for GDPR compliance
+          cookie_expires: 0, // Cookie expiration time, 0 means it expires when the session ends
+        },
+        pluginConfig: {
+          head: false, // Puts the tracking script in the body by default
+          respectDNT: true, // Respect Do Not Track setting in browsers
+          exclude: ["/preview/**", "/do-not-track/me/too/"], // Exclude paths from tracking
+          origin: "https://www.googletagmanager.com", // Default origin for Google Tag Manager
+          delayOnRouteUpdate: 0, // Delay pageview event on route update (in ms)
+        },
+      },
+    },    
+    {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "content",
