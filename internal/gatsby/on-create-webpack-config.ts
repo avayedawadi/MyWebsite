@@ -18,6 +18,10 @@ const onCreateWebpackConfig = (
           {},
         ),
       },
+      devtool: false, // Disable source maps to fix SourceMapConsumer error
+      optimization: {
+        minimize: false, // Disable minification to avoid Parcel optimizer issues
+      },
     });
   }
 )(compilerOptions);

@@ -5,6 +5,10 @@ import * as types from "./internal/gatsby/types";
 
 export default {
   pathPrefix: config.pathPrefix,
+  flags: {
+    DEV_SSR: false,
+    FAST_DEV: false,
+  },
   siteMetadata: {
     url: config.url,
     menu: config.menu,

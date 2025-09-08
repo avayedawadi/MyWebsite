@@ -4,7 +4,7 @@ const routes = Object.freeze({
   tagsListRoute: "/tags",
   notFoundRoute: "/404",
   tagRoute: "/tag",
-  indexRoute: "/",
+  indexRoute: "/projects",
 });
 
 export default routes;
