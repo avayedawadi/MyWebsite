@@ -20,6 +20,9 @@ Intel SMT/Hyperthreading is turned off and the CPU has its frequency statically 
 # My Contribution
 I have made a variety of strides into isolation and testing. I am currently also testing on Memcached (another key-value cache store). I also helped to modify a [Fibtest library](https://github.com/avayedawadi/fibtest-updated) for stress testing CPUs colocated with Redis. I made the library work with the updated Linux CPU groups hierarchy (cgroups v2). This was causing the original library to not work because the CPU could not properly govern itself.
 
+## Technical Expertise Demonstrated
+This research really forced me to dive deep into Linux kernel internals and understand how CPU scheduling and NUMA architecture actually work under the hood. I spent a lot of time figuring out how to properly isolate Redis using `numactl` and real-time scheduling with `chrt`, it's surprisingly tricky to get clean performance data when you have all these different processes competing for resources. The most interesting part was updating the Fibtest library to work with cgroups v2, which was causing all sorts of issues because the original code wasn't designed for the new Linux CPU groups hierarchy. I had to really understand how Linux manages processes and resources to get it working properly. The benchmarking methodology was probably the most important part - I had to design experiments that actually gave us meaningful data about how Redis performs under different loads, which meant eliminating all the confounding variables and making sure we could reproduce results consistently. It's been cool to see how hardware-level optimizations like CPU cache hierarchies actually impact application performance in real-world scenarios.
+
 ## Outputs
 ![memtier_output](/media/memtier_output.png)
 - Above we can see the most interesting output I got from my research.

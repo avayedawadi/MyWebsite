@@ -31,7 +31,7 @@ details > *:not(summary){
 *Software Engineering Intern*\
 *May 2025 - Present, (New York City, NY)*
 - Pioneered agentic AI workflows for travel bookings and servicing as part of the Ramp Travel team
-- Led model migrations to enable admin flagging of off-platform travel bookings, improving capture rates 20%
+- Led model migrations to enable admins flagging off-platform bookings, improving on-platform travel rates 20%
 - Solved customer incidents for 3 customers and worked with cross-functional partners to close out issues
 
 **Itential (Network Automation Startup, Raised >$29,000,000 dollars)**\

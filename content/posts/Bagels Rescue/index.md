@@ -27,6 +27,9 @@ As an engineering manager for Bits of Good, I was tasked with leading a team of 
 This is the first semester creating Bagel Rescue, and I am the engineering manager for this semester. I am responsible for creating the system architecture, writing tickets for the developers, and handling deployment.
 Essentially, the vision and development of the project is my own, and I am responsible for making sure the project gets done.
 
+## Technical Expertise Demonstrated
+Leading this project as engineering manager really taught me how to balance technical architecture with team management. I had to design the entire MERN stack system from scratch, thinking about how it would scale as more food banks joined the network. The TypeScript enforcement was something I was pretty strict about - I wanted to make sure we caught errors early rather than dealing with runtime issues later. Setting up the Docker containerization was tricky because I had to make sure both the development and production environments were consistent, and I spent a lot of time optimizing the MongoDB schema to handle the complex queries we needed for route management and volunteer scheduling. The Firebase authentication integration was interesting because I had to build custom role-based access control that worked for both admins and volunteers, and managing all the state across different user interfaces required me to really think through the data flow patterns.
+
 ## Usage
 ![route_creation](/media/route_creation_page.png)
 _Ability to create routes for pickups and dropoffs_

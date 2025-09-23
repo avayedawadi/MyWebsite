@@ -17,7 +17,10 @@ This is the project I am currently putting most of my time into. Along with one 
 As part of the Idea To Prototype cohort of Fall 2023 we received a $500 grant from Georgia Tech to prototype our work and flesh it out.
 
 ## Technical Details
-The website is built in Electron.js using JavaScript. We use p5.js to build out the map itself. Python and certain OpenAI apis are used to help create the ML and algorithmic aspects of the project. 
+The website is built in Electron.js using JavaScript. We use p5.js to build out the map itself. Python and certain OpenAI apis are used to help create the ML and algorithmic aspects of the project.
+
+## Technical Expertise Demonstrated
+This project was really about rethinking how people explore the web, instead of just having a bunch of tabs, I wanted to create a spatial map that shows how different pages relate to each other. The p5.js graphics programming was challenging because I had to figure out how to make the map interactive and responsive while keeping the performance smooth. The ML integration was interesting because I had to design algorithms that could actually understand browsing patterns and suggest useful next steps, which meant working with OpenAI APIs and figuring out how to make the recommendations feel natural rather than robotic. Building the Electron app architecture was tricky because I needed to separate the visualization frontend from the ML processing backend while keeping everything communicating efficiently. The graph algorithms for representing web relationships were probably the most fun part, I had to think about how to visually represent complex browsing patterns in a way that actually helps users understand their exploration journey. Getting the Georgia Tech funding was cool because it validated that this was actually a useful research direction, and building something that works across different operating systems while feeling native was definitely a learning experience. 
 
 ## Usage
 <a target="_blank" href="./media/web_browser_poster.pdf">Exploratory Web Browser Poster</a>

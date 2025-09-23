@@ -35,6 +35,9 @@ The website is built in Electron.js using JavaScript. We are using a React frame
 built all the LLM & RAG pipelines ourselves on top of the OpenAI API. Additionally, we use Perplexity and Exa to allow for a greater featureset 
 when exploring the web and doing research.
 
+## Technical Expertise Demonstrated
+Building Blossom has been a wild ride, I had to learn how to build RAG pipelines from scratch, which meant diving deep into vector embeddings and figuring out how to make different LLM APIs work together smoothly. The Electron app architecture was tricky because I wanted it to feel native but still be flexible enough to iterate quickly. I spent a lot of time on the Python/Flask backend getting the web scraping and content processing to work reliably, especially handling all the different API rate limits and error cases. The pivot from research browser to "Cursor for the web" was actually really interesting from a product perspective - we had to do a lot of user research and figure out what people actually wanted versus what we thought they wanted. Working with VCs and going through the YC interview process taught me a lot about how to communicate technical ideas to non-technical people, and building the file system integration to make it work seamlessly with local files was probably the most challenging part technically.
+
 ## Usage
 ![new_blossom](/media/new_blossom.png)
 *The new version of Blossom currently in closed beta*
